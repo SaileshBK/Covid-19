@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".GalleryFragment">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dfsdfsdffsd"
+        android:textColor="@color/ic_menu_gallery_bg"
+        android:textSize="@dimen/dfdfsdfsdffsd"
+        android:paddingBottom="@dimen/sdfsdfsdfsdfsd"/>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="covid19api.com"
+        android:textSize="@dimen/sdfsdfsfdf" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/sdfgsgfsgfgfggfgfgf"
+        android:text="https://api.covid19api.com/countries"
+        android:textSize="@dimen/asdfsdfdf" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fsfdfdsf"
+        android:textColor="@color/ic_menu_upload"
+        android:textSize="@dimen/sdfsdfsdfsdfsdddd" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Returns all the available countries and provinces, as well as the country slug for per country requests." />
+
+
+</LinearLayout>

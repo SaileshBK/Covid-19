@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/dfsdfsdf"
+    tools:context=".Quiz">
+
+    <TextView
+        android:id="@+id/questioncount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/timer"
+        android:gravity="right"
+        android:text="@string/sdfsdf"
+        android:textColor="@android:color/background_dark"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/questiontextview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/radiogroup"
+        android:layout_below="@+id/scorecount"
+        android:layout_marginBottom="48dp"
+        android:gravity="center_horizontal"
+        android:text="@string/fghjfghjj"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="36sp" />
+
+    <RadioGroup
+        android:id="@+id/radiogroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true">
+
+        <RadioButton
+            android:id="@+id/radioButton1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sdfsdfh"
+            android:textSize="@dimen/fghfghfh" />
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sdfsdffsdf"
+            android:textSize="50sp" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/buttoncheck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/radiogroup"
+        android:layout_marginTop="@dimen/sdfsdfds"
+        android:text="@string/sdfsdfdf"
+        android:textSize="@dimen/dfghdfgfg" />
+
+
+
+</RelativeLayout>

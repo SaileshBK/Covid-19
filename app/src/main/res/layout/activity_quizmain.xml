@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light"
+    android:padding="@dimen/jgjgj"
+    tools:context=".Second">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:orientation="vertical">
+
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Status : (if status is pending you must complete the survey first !)"
+            android:textColor="@android:color/black"
+            android:textSize="36sp"
+            android:layout_marginBottom="20dp"/>
+
+        <TextView
+
+            android:id="@+id/status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Pending.........."
+            android:textColor="@color/colorAccent"
+            android:textSize="30sp"
+            android:layout_marginBottom="10dp"/>
+
+        <TextView
+            android:id="@+id/status2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp" />
+
+        <TextView
+            android:id="@+id/status3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp" />
+
+        <TextView
+            android:id="@+id/status4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp" />
+
+        <TextView
+            android:id="@+id/status5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp" />
+
+        <TextView
+            android:id="@+id/status6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp" />
+
+        <TextView
+            android:id="@+id/status7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:hint="..." />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/startquiz"
+        android:layout_width="@dimen/dfgdfg"
+        android:layout_height="@dimen/dfgdfggfg"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="@dimen/dfghfg"
+        android:layout_marginLeft="@dimen/sdfgsdfsdfsd"
+        android:layout_marginTop="@dimen/dfgdfggfgfgg"
+        android:layout_marginEnd="@dimen/dfgdfgdg"
+        android:layout_marginRight="@dimen/dfgdfgfg"
+        android:background="@color/ic_launcher_background"
+        android:text="Check my symptoms"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:id="@+id/endquiz"
+        android:layout_width="@dimen/dfgdfghkj"
+        android:layout_height="@dimen/fghfghfgh"
+        android:layout_below="@id/startquiz"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="@dimen/fghgfhggf"
+        android:layout_marginLeft="@dimen/fghdfgjk"
+        android:layout_marginTop="@dimen/dfghdfyhdfg"
+        android:layout_marginEnd="@dimen/fdghfghfgh"
+        android:layout_marginRight="@dimen/fghfghfg"
+        android:background="@color/ic_launcher_background"
+        android:text="More Information"
+        android:textColor="@android:color/black" />
+
+</RelativeLayout>

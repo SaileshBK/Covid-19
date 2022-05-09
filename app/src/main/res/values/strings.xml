@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="ystring">\  year\'s old.\</string>
+    <string name="ystrin">\ year\'s,\</string>
+    <string name="mstring">\ month\'s and , \</string>
+    <string name="dstring">\ days old.\</string>
+
+    <string name="enter_last_name">Enter Last name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="_0">0%</string>
+    <string name="positivity">Positivity: (hint : This is just a feeling of Positivity between 1 and 100 %)</string>
+    <string name="calculate">Calculate</string>
+    <string name="select">Select</string>
+    <string name="gender">Gender:</string>
+    <string name="current_date">Today\'s Date:</string>
+    <string name="date_of_birth">Date of Birth :</string>
+    <string name="occupation">Occupation :</string>
+    <string name="sssssssssss">By clicking signup, you agree to our Terms, Data Policy and Cookies Policy. You may receive SMS Notifications from us and can opt out any time.</string>
+    <string name="it_s_quick_and_easy">It\'s quick and easy.</string>
+    <string name="enter_first_name">Enter First name</string>
+    <string name="first_name">First name:</string>
+    <string name="last_name">Last name :</string>
+    <string name="first_names">First Name:</string>
+    <string name="last_names">Last Name:</string>
+    <string name="genders">Gender:</string>
+    <string name="occupations">Occupation</string>
+    <string name="your_age_guesss">Your Age Guess:</string>
+    <string name="hey_you_ares">Hey, You are </string>
+    <string name="furthermore_we_found_that_you_ares">Furthermore, we Found that you are</string>
+    <string name="textviews">TextView</string>
+    <string name="textviewss">TextView</string>
+    <string name="textviewssss">TextView</string>
+    <string name="textviewsssss">TextView</string>
+    <string name="summarys">Summary</string>
+    <string name="thank_you_for_using_this_applications">Thank You for using this Application.</string>
+
+
+    <string-array name="occupation">
+        <item>Office Worker</item>
+        <item>Military</item>
+        <item>Student</item>
+        <item>Other</item>
+
+    </string-array>
+
+
+
+
+
+    <string name="Activate">Activate</string>
+    <string name="loginformain">Login</string>
+    <string name="newlogin">Login</string>
+    <string name="gobackfornewlogin">Go Back</string>
+    <string name="activate_a_new_account">Activate a New Account</string>
+    <string name="ererrter">It\'s quick and easy.</string>
+    <string name="ererer">User ID:</string>
+    <string name="ertert">Enter User ID</string>
+    <string name="by_clicking_activate_you_agree_to_our_terms_data_policy_and_cookies_policy_you_may_receive_sms_notifications_from_us_and_can_opt_out_any_time">By clicking Activate, you agree to our Terms, Data Policy and Cookies Policy. You may receive SMS Notifications from us and can opt out any time.</string>
+    <string name="etrtrt">Activate</string>
+    <string name="etrertte">Login with new Account</string>
+    <string name="fgdhughu">TextView</string>
+    <string name="jrhghiurhge">Title</string>
+
+    <string name="register">Register</string>
+    <string name="sdas">Login</string>
+    <string name="fdgsf">00:60</string>
+    <string name="sdfsdf">Question : 1/max</string>
+    <string name="sdfs">Score : 0</string>
+    <string name="sdfsdfh">answer1</string>
+    <string name="sdfsdffsdf">answer2</string>
+    <string name="sdfsdfsf">answer3</string>
+    <string name="sdfsdfsdf">answer4</string>
+    <string name="sdfsdfdf">check</string>
+    <string name="dfsdfsdfsdf">Create a New Account</string>
+    <string name="sdfsddf">It\'s quick and easy.</string>
+    <string name="dfhdghgd">User Name:</string>
+    <string name="fgdfgdfg">Enter Username</string>
+    <string name="fgfggfgfg">Password:</string>
+    <string name="fgdfhfgjhg">Enter Password</string>
+    <string name="dfghdfgb">Email:</string>
+    <string name="sdfgsg">Email</string>
+    <string name="sdfsdfsdffffef">By clicking Sign Up, you agree to our Terms, Data Policy and Cookies Policy. You may receive SMS Notifications from us and can opt out any time.</string>
+    <string name="gfdgdf">Sign Up</string>
+    <string name="sdfsdfsdfvv">Current User:</string>
+    <string name="sdfsodjfh">Last High Score : 0</string>
+    <string name="dsfnhsjdnf">Difficulty :</string>
+    <string name="sdfnjsdnf">START QUIZ</string>
+    <string name="dfghhgfh">Welcome to Quiz</string>
+    <string name="fghjghj">Major Project 2 (CSIS 365)</string>
+    <string name="dfghfghfgh">Start Quiz Now</string>
+    <string name="fghjfghjj">Question?</string>
+    <string name="dfgdfgdfg">Last High Score: 0</string>
+    <string name="fgdfgfdg">Continue</string>
+    <string name="dfghdfgdf">Finish</string>
+    <string name="fghdfghdf">Gender:</string>
+    <string name="fdgfgdf">Female</string>
+    <string name="dfgdf">Male</string>
+    <string name="dfgdfg">Others</string>
+    <string name="ghfgh">Date of birth:</string>
+
+
+
+    <string name="sdfshfguhsdgf">Navigation Drawer</string>
+    <string name="fsdfdfsdf">Vehicle name:</string>
+    <string name="dfsadfsdfsfdf">Type:</string>
+    <string name="sdfsdfsfsddf">Description:</string>
+    <string name="dfsdfsdffsd">API link :</string>
+    <string name="sdfsdfsdffd">STUDIO GHIBLI</string>
+    <string name="dfsdffsdf">https://ghibliapi.herokuapp.com/vehicles</string>
+    <string name="fsfdfdsf">Description:</string>
+    <string name="vehicles">Vehicles</string>
+    <string name="gallery">Gallery</string>
+    <string name="about">About</string>
+
+
+
+</resources>

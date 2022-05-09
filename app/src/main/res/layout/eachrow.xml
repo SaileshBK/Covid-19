@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:elevation="25dp"
+    android:layout_margin="10dp">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/sffeth"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Country:"
+            android:textSize="@dimen/saefsdfsdfsdfsdf" />
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="@dimen/sdgfs"
+            android:layout_height="@dimen/sdfgsd"
+            android:textColor="@android:color/holo_green_light"
+            android:textSize="@dimen/sdfsdfsfsdfs" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Slug:"
+            android:textSize="@dimen/sdfsdfsfdfdfsd" />
+
+        <TextView
+            android:id="@+id/type"
+            android:layout_width="@dimen/sgdfsdg"
+            android:layout_height="@dimen/sfdgd"
+            android:textColor="@android:color/holo_green_light"
+            android:textSize="@dimen/sadfsdfsfsdffds" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ISO2:"
+            android:textSize="@dimen/sdfsdfsdff" />
+
+        <TextView
+            android:id="@+id/desc"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/sdfgdfg"
+            android:textColor="@android:color/holo_green_light"
+            android:textSize="@dimen/afdsdafsdfsfsd" />
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
