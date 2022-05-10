@@ -2,5 +2,5 @@
 <resources>
 
 
-    <string name="my_map_api" templateMergeStrategy="preserve" translatable="false">AIzaSyBbHlC789uhw2tITM3B7eKjHSFYRqLyJxQ</string>
+    <string name="my_map_api" templateMergeStrategy="preserve" translatable="false"></string>
 </resources>
